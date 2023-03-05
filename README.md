@@ -27,7 +27,7 @@
 <img style="margin: 10px" src="https://download.logo.wine/logo/R_(programming_language)/R_(programming_language)-Logo.wine.png" alt="R" height="50" />  
 <img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:776/1*QQanp0i0o7jcNegt9ClfsA.png" alt="Google Collab" height="50" />
 <img style="margin: 10px" src="https://www.kindpng.com/picc/m/81-811458_jupyter-notebook-logo-hd-png-download.png" alt="Jupyter Notebook" height="50" />
-<img style="margin: 10px" src="https://img.favpng.com/13/13/20/scikit-learn-python-scikit-image-logo-brand-png-favpng-DiDpZ1ewwNabVHftX6ieU1Wx4.jpg" alt="Scikit-learn" height="50" />
+<img style="margin: 10px" src="https://www.bgp4.com/wp-content/uploads/2019/08/Scikit_learn_logo_small.svg_-840x452.png" alt="Scikit-learn" height="50" />
 <img style="margin: 10px" src="https://tse4.mm.bing.net/th?id=OIP.vD5O0cGtIr0y-S6blOX8vAHaC_&pid=Api" alt="Pandas" height="50" />  
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" height="50" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="50" />
