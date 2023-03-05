@@ -1,46 +1,30 @@
 ## Hello World!👋
 
-<img src="https://komarev.com/ghpvc/?username=Ayushd70">
-
 <br>
-<a href="mailto:ayushdubey70@gmail.com" target="_blank">
+<a href="mailto:giuseppecurci49@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/Ayushd70" target="_blank">
+<a href="https://github.com/giuseppecurci" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style=“margin-bottom: 5px;” />
 </a>
-<a href="https://linkedin.com/in/ayushd70" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style=“margin-bottom: 5px;” />
-</a>
-<a href="https://t.me/Ayushd70" target="_blank">
+<a href="https://t.me/Peppe010102" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://twitter.com/Ayushd70" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style=“margin-bottom: 5px;” />
-</a>
-<a href="https://instagram.com/ayushd70" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style=“margin-bottom: 5px;” />
-</a>
-<a href="https://www.facebook.com/HeyImAyushd" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style=“margin-bottom: 5px;” />
 </a>
 <br/>
 
 ## Glad to see you here!
 
 <p><samp>
-  I'm Ayush Dubey, a passionate Developer living in India. Currently pursuing B.Tech in Computer Science.
+  I'm Giuseppe Curci, a 21-year old student. I'm currently pursuing a bachelor in Psychology along with a <a href="https://learn.profession.ai/master-professionale-in-data-science?utm_source=ProfessionAI&utm_medium=ProfessionAI&utm_id=sito">master</a> in Data Science.
   <br/><br/>
-  I was previously working at <a href="https://rooftopapp.com/">Rooftop</a> as Founding Engineer. I maintain few Android Custom ROM at <a href="https://forum.xda-developers.com/m/ayushd70.5889244/">XDA Developers</a>.
-  <br/><br/>
-  You can contact me on any of the platforms above. I typically respond fastest to <a href="https://t.me/Ayushd70"> Telegram </a> messages.
+  I am fluent in Italian, English and Spanish, so feel free to contact me in the language you prefer among them.
 </samp></p>
 
 ## Languages and Tools
 
 <div align="center">  
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" height="50" />  
+<img style="margin: 10px" src="https://download.logo.wine/logo/R_(programming_language)/R_(programming_language)-Logo.wine.png" alt="R" height="50" />  
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="50" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" height="50" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" height="50" />
