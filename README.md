@@ -25,10 +25,10 @@
 <div align="center">  
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" />
 <img style="margin: 10px" src="https://download.logo.wine/logo/R_(programming_language)/R_(programming_language)-Logo.wine.png" alt="R" height="50" />  
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="50" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" height="50" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" height="50" />
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" height="50" />  
+<img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:776/1*QQanp0i0o7jcNegt9ClfsA.png" alt="Google Collab" height="50" />
+<img style="margin: 10px" src="https://www.kindpng.com/picc/m/81-811458_jupyter-notebook-logo-hd-png-download.png" alt="Jupyter Notebook" height="50" />
+<img style="margin: 10px" src="https://img.favpng.com/13/13/20/scikit-learn-python-scikit-image-logo-brand-png-favpng-DiDpZ1ewwNabVHftX6ieU1Wx4.jpg" alt="Scikit-learn" height="50" />
+<img style="margin: 10px" src="https://tse4.mm.bing.net/th?id=OIP.vD5O0cGtIr0y-S6blOX8vAHaC_&pid=Api" alt="Pandas" height="50" />  
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" height="50" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="50" />
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" />  
@@ -54,19 +54,3 @@
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="50" />  
 <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" alt="Jenkins" height="50" />  
 </div>
-
-## Stats
-
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ayushd70&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=ayushd70&redirect=true" target="_blank"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=ayushd70&cover_image=true&theme=novatorem" align="center" style="width: 100%" /></a>
-
-</div>
-
-</td></tr></table>
-
-<br/>
