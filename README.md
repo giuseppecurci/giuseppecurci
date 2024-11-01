@@ -27,7 +27,7 @@
 <img style="margin: 10px" src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png" alt="C" height="50" />
 <img style="margin: 10px" src="https://download.logo.wine/logo/R_(programming_language)/R_(programming_language)-Logo.wine.png" alt="R" height="50" />
 <img style="margin: 10px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="SQL" height="50" />
-<img style="margin: 10px" src="https://manta.io/hs-fs/hubfs/Partner%20Logos/kafka%20logo.png?width=576&height=398&name=kafka%20logo.png" alt="Kafka" height="50" />
+<img style="margin: 10px" src="https://www.kamailio.org/w/wp-content/uploads/2019/11/kafka-logo-1024x502.png" alt="Kafka" height="50" />
 <img style="margin: 10px" src="https://blog.sixeyed.com/content/images/2015/12/spark-logo.png" alt="Kafka" height="50" />
 <img style="margin: 10px" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" alt="Docker" height="50" />
 <img style="margin: 10px" src="https://openstandia.jp/oss_info/image/pytorch/pytorchtop.png" alt="PyTorch" height="50" />
