@@ -34,5 +34,4 @@
 <img style="margin: 10px" src="https://www.promizer.ir/wp-content/uploads/2018/08/1200px-Scikit_learn_logo_small.svg_-600x343.png" alt="Scikit-learn" height="50" />
 <img style="margin: 10px" src="https://tse4.mm.bing.net/th?id=OIP.vD5O0cGtIr0y-S6blOX8vAHaC_&pid=Api" alt="Pandas" height="50" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Numpy" height="50" />
-<img style="margin: 10px" src="https://matplotlib.org/3.1.0/_static/logo2.png" alt="Matplotlib" height="50" />  
 </div>
