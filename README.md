@@ -15,7 +15,7 @@
 ## Glad to see you here!
 
 <p><samp>
-  I'm Giuseppe Curci, a 22-year old student. I'm currently pursuing a Master's degree in Data Science.
+  I'm Giuseppe Curci, a 23-year old student. I'm currently pursuing a Master's degree in Data Science.
   <br/><br/>
   I am fluent in Italian, English and Spanish, so feel free to contact me in the language you prefer among them.
 </samp></p>
