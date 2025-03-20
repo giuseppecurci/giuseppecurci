@@ -28,7 +28,7 @@
 <img style="margin: 10px" src="https://download.logo.wine/logo/R_(programming_language)/R_(programming_language)-Logo.wine.png" alt="R" height="50" />
 <img style="margin: 10px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="SQL" height="50" />
 <img style="margin: 10px" src="https://www.kamailio.org/w/wp-content/uploads/2019/11/kafka-logo-1024x502.png" alt="Kafka" height="50" />
-<img style="margin: 10px" src="https://blog.sixeyed.com/content/images/2015/12/spark-logo.png" alt="Kafka" height="50" />
+<img style="margin: 10px" src="https://blog.sixeyed.com/content/images/2015/12/spark-logo.png" alt="Spark" height="50" />
 <img style="margin: 10px" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" alt="Docker" height="50" />
 <img style="margin: 10px" src="https://openstandia.jp/oss_info/image/pytorch/pytorchtop.png" alt="PyTorch" height="50" />
 <img style="margin: 10px" src="https://www.promizer.ir/wp-content/uploads/2018/08/1200px-Scikit_learn_logo_small.svg_-600x343.png" alt="Scikit-learn" height="50" />
