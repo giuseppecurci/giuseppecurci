@@ -1,37 +1,65 @@
-## Hello World!👋
+# Hi, I'm Giuseppe Curci 👋
+
+**AI Engineer & Researcher** working at the intersection of **LLMs** and **efficient deep learning**.
+
+Currently at **Okkam × Villanova AI**, where I work on preference tuning, on-policy RL, LLM evaluation, and data generation. Previously, I worked as an AI Researcher at **ENSTA Paris**, focusing on efficient transformers, uncertainty estimation, and robustness.
+
+I'm particularly interested in **making modern AI models more efficient and reliable** — from training and evaluation to inference and real-world systems.
 
 <br>
-<a href="mailto:giuseppecurci49@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+<a href="mailto:giuseppecurci49@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/giuseppecurci" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style=“margin-bottom: 5px;” />
+<a href="https://www.linkedin.com/in/giuseppe-curci-153506232/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://t.me/Peppe010102" target="_blank">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<br/>
 
-## Glad to see you here!
+---
 
-<p><samp>
-  I'm Giuseppe Curci, a 23-year old student. I'm currently pursuing a Master's degree in Data Science.
-  <br/><br/>
-  I am fluent in Italian, English and Spanish, so feel free to contact me in the language you prefer among them.
-</samp></p>
+## 🔬 Research
 
-## Languages and Tools
+My research interests include:
 
-<div align="center">  
-<img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" />
-<img style="margin: 10px" src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png" alt="C" height="50" />
-<img style="margin: 10px" src="https://download.logo.wine/logo/R_(programming_language)/R_(programming_language)-Logo.wine.png" alt="R" height="50" />
-<img style="margin: 10px" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="SQL" height="50" />
-<img style="margin: 10px" src="https://www.kamailio.org/w/wp-content/uploads/2019/11/kafka-logo-1024x502.png" alt="Kafka" height="50" />
-<img style="margin: 10px" src="https://blog.sixeyed.com/content/images/2015/12/spark-logo.png" alt="Spark" height="50" />
-<img style="margin: 10px" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" alt="Docker" height="50" />
-<img style="margin: 10px" src="https://openstandia.jp/oss_info/image/pytorch/pytorchtop.png" alt="PyTorch" height="50" />
-<img style="margin: 10px" src="https://www.promizer.ir/wp-content/uploads/2018/08/1200px-Scikit_learn_logo_small.svg_-600x343.png" alt="Scikit-learn" height="50" />
-<img style="margin: 10px" src="https://tse4.mm.bing.net/th?id=OIP.vD5O0cGtIr0y-S6blOX8vAHaC_&pid=Api" alt="Pandas" height="50" />  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="Numpy" height="50" />
-</div>
+* **Large Language Models & RL** — preference tuning, on-policy reinforcement learning, evaluation
+* **Efficient Deep Learning** — model compression, efficient architectures, uncertainty estimation
+* **AI Systems** — distributed training, inference, and scalable ML pipelines
+* **Robustness & Reliability** — uncertainty estimation, domain shift, and model evaluation
+
+### Publications
+
+**[Practical Guidelines for Model Merging in LLM Pre-Training](https://openreview.net/pdf?id=lGHSxRrMZs)**<br>
+*ACL Apr,2026 · Giuseppe Curci, Stefano Simonazzi, Andrea Molinari and Andrea Zugarini* <br>
+A systematic study of checkpoint merging for large-scale LLM training, investigating its impact on efficiency and training stability.
+
+**[Ensembling Pruned Attention Heads for Uncertainty-Aware Efficient Transformers](https://openreview.net/pdf?id=pJZbMECfLP)** <br>
+*ICLR Jan,2026 · Firas Gabetni, Giuseppe Curci, Andrea Pilzer, Subhankar Roy, Elisa Ricci and Gianni Franchi* <br>
+Efficient transformer architectures to improve accuracy and uncertainty estimation across computer vision, NLP, and multimodal tasks.
+
+---
+
+## 🛠️ Tech
+
+**ML / Deep Learning**
+`PyTorch` · `Lightning` · `scikit-learn` · `TRL` · `VeRL`
+
+**Programming**
+`Python` · `C` · `Java`
+
+**ML Systems & MLOps**
+`Docker` · `Hydra` · `Weights & Biases` · `SLURM` · `MPI` · `OpenMP`
+
+**Data Engineering**
+`Spark` · `Kafka` · `SQL`
+
+---
+
+## 🌍 Languages
+
+🇮🇹 Italian · 🇬🇧 English · 🇪🇸 Spanish 
+
+---
+
+<p align="center">
+  <i>Always interested in hard and relevant problems.</i>
+</p>
